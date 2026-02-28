@@ -23,6 +23,6 @@
 - **Y**: Start game
 - **R**: Restart
 - **H / TAB**: Toggle **AI ↔ HUMAN**
-- **Arrow Keys**: Move (Human mode)
+- **Arrow Keys**: (up down left right)key Move (Human mode)
 - **- / =** (or keypad +/-): Decrease / increase speed
 - **ESC**: Quit
